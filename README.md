@@ -64,6 +64,10 @@ Aleksi Kärkkäinen
 -Developed supporting features such as room join validation and navigation logic
 -Wrote the technical documentation and contributed through independent, focused work
 
+**This application was originally developed in a private Azure DevOps repository rather than on my personal GitHub.**
+
+**Note: This project was developed in a private Azure DevOps environment, so the commit history shown here does not reflect the full development process.**
+
 **How to run:**
 
 Download the Project
@@ -71,8 +75,8 @@ Download the Project
 -Select Download ZIP and extract it to a folder on your computer.
 
 Open in Visual Studio
--Open Visual Studio 2022 (or later).
+-Open Visual Studio 2022.
 -Choose Open a project or solution and select the .sln file from the extracted folder.
 
 Run the App
--Click the Start (▶️) button or press F5 to run the app.
+-Click the Start button or press F5 to run the app.
